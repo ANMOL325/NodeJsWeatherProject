@@ -43,7 +43,7 @@ body{
 
 .Footer{
     position:relative;
-    background-image: linear-gradient(blue,black);
+    background-image: linear-gradient(blue,red);
     color: rgba(255, 255, 255, 0.874);
     height: 10vh;
     margin-top: auto;
